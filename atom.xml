@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dibadalu.github.io/"/>
-  <updated>2016-06-25T04:09:13.000Z</updated>
+  <updated>2016-07-31T11:50:05.000Z</updated>
   <id>http://dibadalu.github.io/</id>
   
   <author>
@@ -14,6 +14,73 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《技术奇点》阅读笔记</title>
+    <link href="http://dibadalu.github.io/2016/07/31/%E3%80%8A%E6%8A%80%E6%9C%AF%E5%A5%87%E7%82%B9%E3%80%8B%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    <id>http://dibadalu.github.io/2016/07/31/《技术奇点》阅读笔记/</id>
+    <published>2016-07-31T11:45:40.000Z</published>
+    <updated>2016-07-31T11:50:05.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;奇点的概念&quot;&gt;&lt;a href=&quot;#奇点的概念&quot; class=&quot;headerlink&quot; title=&quot;奇点的概念&quot;&gt;&lt;/a&gt;奇点的概念&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;由于技术的迅速发展，人类社会中的一切都出现了改变，生活在今天的我们将无法理解。今天被我们当作理所当然的一切（经济、政府、法律、国家）会改变形态，人类最根本的价值观（生命的尊严、对幸福的追求、选择的自由）也会被淘汰。我们对人类之所以为人的理解（人性、生存、意识、社会秩序）提出疑问，不是通过漫无边际的哲学思考，而是由真实存在的环境所推动。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;摘录&quot;&gt;&lt;a href=&quot;#摘录&quot; class=&quot;headerlink&quot; title=&quot;摘录&quot;&gt;&lt;/a&gt;摘录&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;作为原来的创造者，如果智能也可以被创造出来，那么它就可以提升自己。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;h3 id=&quot;人工智能，机器与人类的博弈&quot;&gt;&lt;a href=&quot;#人工智能，机器与人类的博弈&quot; class=&quot;headerlink&quot; title=&quot;人工智能，机器与人类的博弈&quot;&gt;&lt;/a&gt;人工智能，机器与人类的博弈&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;要讨论人工智能的未来，必须要提到使用什么样的机制来实现。从计算机科学的角度来讲就是：我们不仅要谈规范，还要谈如何实现。&lt;/li&gt;
+&lt;li&gt;全脑仿真不仅是未来创造人工智能的可行手段，还可能帮助实现“意识上传”这一某些超人主义流派的重要目标。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;全脑仿真，让仿生人工智能成为可能&quot;&gt;&lt;a href=&quot;#全脑仿真，让仿生人工智能成为可能&quot; class=&quot;headerlink&quot; title=&quot;全脑仿真，让仿生人工智能成为可能&quot;&gt;&lt;/a&gt;全脑仿真，让仿生人工智能成为可能&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;全脑仿真可以分为三个阶段——测绘、模拟和实体化。&lt;/li&gt;
+&lt;li&gt;生物的大脑最擅长学习和适应。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;无缝对接，人工智能走出实验室&quot;&gt;&lt;a href=&quot;#无缝对接，人工智能走出实验室&quot; class=&quot;headerlink&quot; title=&quot;无缝对接，人工智能走出实验室&quot;&gt;&lt;/a&gt;无缝对接，人工智能走出实验室&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;如果数据来自真实世界，它很可能是杂乱无章的。所以，机器学习算法必须要能够处理不确定性。&lt;/li&gt;
+&lt;li&gt;如果连人类水平人工智能都如此神秘，我们又如何能够预测和控制超级人工智能？超级人工智能可能在每个智力领域都能够与人类匹敌，甚至比我们还聪明。&lt;/li&gt;
+&lt;li&gt;人工智能必须回答的三个问题：第一，任何媒介，无论是人工还是生物智能，其回报函数是什么？回答这个问题会告诉我们它将如何表现。第二，它怎么学习？处理什么数据？使用什么学习技巧？预置其中的日常知识有哪些？第三，它如何实现预期回报最大化？它做到这一点的优化技巧有多出色？它善于解决什么问题，弱点和局限性有哪些？&lt;/li&gt;
+&lt;li&gt;马库斯 胡特（Marcus Hutter）所提出的通用人工智能的概念：无论所处世界状况如何，在收集信息后，都会选择回报最大化的行动方案。&lt;/li&gt;
+&lt;li&gt;对人类提出三个问题，其回答：第一，人类与其他动物有着相差无几的潜在回报函数，但是，人类能够极大修正他们的回报函数。第二，由于社会、文化尤其是语言的存在，人类回报函数具有开放性。能够理解别人的信仰、欲望和情感状态，会使学习变得更易驾驭。第三，为了实现社会回报最大化，个人的优化能力进一步专业化。无论对集体还是个人，创新能力是人类优化回报策略的另一关键要素。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;超级智能，想象另一种可能&quot;&gt;&lt;a href=&quot;#超级智能，想象另一种可能&quot; class=&quot;headerlink&quot; title=&quot;超级智能，想象另一种可能&quot;&gt;&lt;/a&gt;超级智能，想象另一种可能&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;与生物大脑不同，数字基质的大脑可以多次复制。数字基质的大脑还可以加速，这一点也与生物大脑不同。&lt;/li&gt;
+&lt;li&gt;与其把人工智能想象成很多个体，不如想象成无定型的、范围模糊的人工智能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;机器之心，天使还是魔鬼&quot;&gt;&lt;a href=&quot;#机器之心，天使还是魔鬼&quot; class=&quot;headerlink&quot; title=&quot;机器之心，天使还是魔鬼&quot;&gt;&lt;/a&gt;机器之心，天使还是魔鬼&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;这类自我意识对于人类来说是至关重要的，强人工智能需要这样的自我意识吗？&lt;/li&gt;
+&lt;li&gt;但是，要设计出一个保证人工智能绝对不会做坏事的回报函数是很难的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;人工智能，逐渐显现的影响&quot;&gt;&lt;a href=&quot;#人工智能，逐渐显现的影响&quot; class=&quot;headerlink&quot; title=&quot;人工智能，逐渐显现的影响&quot;&gt;&lt;/a&gt;人工智能，逐渐显现的影响&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;发达经济体中需要人来完成的有偿工作将会极大减少。如果这成为现实，就可能出现以下几种情况。一方面，我们看到社会进一步分化，一小部分人从事最赚钱的工作。这些受过高等教育，具有很强创造力的精英能够逆流而上，在创业或者创意行业这些人类表现好于机器的领域努力寻找工作。剩下的人将会失业，但他们的基本需求还可以被满足。实际上这将是富足的时代，即时是经济条件不好的人，也可以获得越来越多的商品和服务。&lt;/li&gt;
+&lt;li&gt;与此同时，如果大众文件被迫降低水准，人们的闲暇时光都用于降低而不是提高普通人的批评和创造能力，那也毫不令人吃惊。在人工智能带来的富足时代里，没有人会抱怨。无论是好还是坏，都会由富裕的精英推动人类文明向前发展，保护传承人类文化的精髓。&lt;/li&gt;
+&lt;li&gt;算法现在只是操作我们的购物方式，明天也可能控制我们从哪里获得新闻、我们相信谁的意见，甚至是我们把票投给哪个政治家。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;未来已来，人工智能的一万种可能&quot;&gt;&lt;a href=&quot;#未来已来，人工智能的一万种可能&quot; class=&quot;headerlink&quot; title=&quot;未来已来，人工智能的一万种可能&quot;&gt;&lt;/a&gt;未来已来，人工智能的一万种可能&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;实现有意识的人类水平人工智能这一前景带来了很多问题，但是有意识的超级智能带来的影响更大。&lt;/li&gt;
+&lt;li&gt;那些从不必面对这些生物不便之处的存在，缺少真正理解人类痛苦的基础。&lt;/li&gt;
+&lt;li&gt;在保守的人类中心主义和后人类原教旨主义之间到底可否折中？&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;奇点的概念&quot;&gt;&lt;a href=&quot;#奇点的概念&quot; class=&quot;headerlink&quot; title=&quot;奇点的概念&quot;&gt;&lt;/a&gt;奇点的概念&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;由于技术的迅速发展，人类社会中的一切都出现了改变，生活在今天的我们将无法理解。今天被我们当作理所当然的一切（经济、政府、法律、国家）会改变形态，人类最根本的价值观（生命的尊严、对幸福的追求、选择的自由）也会被淘汰。我们对人类之所以为人的理解（人性、生存、意识、社会秩序）提出疑问，不是通过漫无边际的哲学思考，而是由真实存在的环境所推动。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;摘录&quot;&gt;&lt;a href=&quot;#摘录&quot; class=&quot;headerlink&quot; title=&quot;摘录&quot;&gt;&lt;/a&gt;摘录&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;作为原来的创造者，如果智能也可以被创造出来，那么它就可以提升自己。&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="阅读笔记" scheme="http://dibadalu.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="人工智能" scheme="http://dibadalu.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>《MacTalk跨越边界》阅读笔记</title>
