@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dibadalu.github.io/"/>
-  <updated>2016-08-04T05:33:27.000Z</updated>
+  <updated>2016-08-20T08:41:21.000Z</updated>
   <id>http://dibadalu.github.io/</id>
   
   <author>
@@ -14,6 +14,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《演讲》</title>
+    <link href="http://dibadalu.github.io/2016/08/02/%E3%80%8A%E6%BC%94%E8%AE%B2%E3%80%8B/"/>
+    <id>http://dibadalu.github.io/2016/08/02/《演讲》/</id>
+    <published>2016-08-02T08:57:46.000Z</published>
+    <updated>2016-08-20T08:41:21.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;开智演讲&quot;&gt;&lt;a href=&quot;#开智演讲&quot; class=&quot;headerlink&quot; title=&quot;开智演讲&quot;&gt;&lt;/a&gt;开智演讲&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&amp;amp;mid=2651928968&amp;amp;idx=1&amp;amp;sn=b5a0c4692195d425d6b35f644c7a9844#rd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;安替：利用未来与世界对赌&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;演讲&quot;&gt;&lt;a href=&quot;#演讲&quot; class=&quot;headerlink&quot; title=&quot;演讲&quot;&gt;&lt;/a&gt;演讲&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://v.qq.com/x/cover/7qt8i40mmgkve03/r01234jqyct.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;兰迪·波许教授的最后一课&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ruanyifeng.com/blog/2008/08/randy_pausch_the_last_lecture.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Randy Pausch教授的《最后一课》by 阮一峰&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;开智演讲&quot;&gt;&lt;a href=&quot;#开智演讲&quot; class=&quot;headerlink&quot; title=&quot;开智演讲&quot;&gt;&lt;/a&gt;开智演讲&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ=
+    
+    </summary>
+    
+    
+      <category term="演讲" scheme="http://dibadalu.github.io/tags/%E6%BC%94%E8%AE%B2/"/>
+    
+      <category term="视频" scheme="http://dibadalu.github.io/tags/%E8%A7%86%E9%A2%91/"/>
+    
+  </entry>
   
   <entry>
     <title>《文章精选 - 学习》</title>
@@ -64,34 +94,6 @@
       <category term="学习" scheme="http://dibadalu.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
       <category term="文章精选" scheme="http://dibadalu.github.io/tags/%E6%96%87%E7%AB%A0%E7%B2%BE%E9%80%89/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《演讲》</title>
-    <link href="http://dibadalu.github.io/2016/08/02/%E3%80%8A%E6%BC%94%E8%AE%B2%E3%80%8B/"/>
-    <id>http://dibadalu.github.io/2016/08/02/《演讲》/</id>
-    <published>2016-08-02T08:57:46.000Z</published>
-    <updated>2016-08-09T01:34:20.000Z</updated>
-    
-    <content type="html">&lt;h1 id=&quot;开智演讲&quot;&gt;&lt;a href=&quot;#开智演讲&quot; class=&quot;headerlink&quot; title=&quot;开智演讲&quot;&gt;&lt;/a&gt;开智演讲&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&amp;amp;mid=2651928968&amp;amp;idx=1&amp;amp;sn=b5a0c4692195d425d6b35f644c7a9844#rd&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;安替：利用未来与世界对赌&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;​&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;h1 id=&quot;开智演讲&quot;&gt;&lt;a href=&quot;#开智演讲&quot; class=&quot;headerlink&quot; title=&quot;开智演讲&quot;&gt;&lt;/a&gt;开智演讲&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3
-    
-    </summary>
-    
-    
-      <category term="演讲" scheme="http://dibadalu.github.io/tags/%E6%BC%94%E8%AE%B2/"/>
-    
-      <category term="视频" scheme="http://dibadalu.github.io/tags/%E8%A7%86%E9%A2%91/"/>
     
   </entry>
   
@@ -156,9 +158,9 @@
     </summary>
     
     
-      <category term="阅读笔记" scheme="http://dibadalu.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
-    
       <category term="人工智能" scheme="http://dibadalu.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    
+      <category term="阅读笔记" scheme="http://dibadalu.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
@@ -630,9 +632,9 @@
     </summary>
     
     
-      <category term="思维" scheme="http://dibadalu.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
-    
       <category term="阅读笔记" scheme="http://dibadalu.github.io/tags/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="思维" scheme="http://dibadalu.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
     
   </entry>
   
